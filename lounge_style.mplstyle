@@ -1,0 +1,29 @@
+# Set '#0a2d61' background default line colors to white.
+
+lines.color: white
+patch.edgecolor: white
+
+text.color: white
+
+axes.facecolor: 0a2d61
+axes.edgecolor: white
+axes.labelcolor: white
+axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+
+xtick.color: white
+ytick.color: white
+
+grid.color: white
+
+figure.facecolor: 0a2d61
+figure.edgecolor: 0a2d61
+
+savefig.facecolor: 0a2d61
+savefig.edgecolor: 0a2d61
+
+### Boxplots
+boxplot.boxprops.color: white
+boxplot.capprops.color: white
+boxplot.flierprops.color: white
+boxplot.flierprops.markeredgecolor: white
+boxplot.whiskerprops.color: white

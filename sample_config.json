@@ -1,0 +1,22 @@
+{
+	"token": "insert token here",
+
+	"server": 445404006177570829,
+
+	"season": 7,
+
+	"web_season": 4,
+
+	"tiers_list": ["Master", "X", "S", "A", "AB", "B", "BC", "C", "CD", "D", "DE", "E", "EF", "F", "SQ"],
+
+	"format_list": [1, 2, 3, 4, 6],
+
+	"ignore_server": [],
+	
+	"tiers_category": [],
+
+	"ignore_channel": [],
+
+	"hostban": 905737810563174420
+
+}
